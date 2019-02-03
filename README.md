@@ -23,7 +23,7 @@ You can get the port of your app with the following code:
 <code> 
 $ docker ps 
 
-# Example
+## Example
 
 ID            IMAGE                                COMMAND    ...   PORTS
 ecce33b30ebf  <your-username>/hapijs-hello:latest  npm start  ...   3000->3000
